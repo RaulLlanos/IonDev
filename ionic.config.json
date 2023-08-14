@@ -1,0 +1,7 @@
+{
+  "name": "IonDev",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
